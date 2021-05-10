@@ -1,4 +1,4 @@
-class Slingshot{
+class slingshot{
     constructor(body, anchor){
         var option={
             bodyA: body,

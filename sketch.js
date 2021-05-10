@@ -43,7 +43,7 @@ mango18=new mango(960,200,44);
 
 treeObj=new tree(1050,580);
 groundObject=new ground(width/2,600,width,20);
-sling=new Slingshot(stoneObj.body,{x:240,y:460})  
+sling=new slingshot(stoneObj.body,{x:240,y:460})  
 
 gamestate = 1;
 score = 0;
